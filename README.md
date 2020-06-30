@@ -7,7 +7,6 @@ This project is based on my Final Project for Python for Data Science on edx, us
 
 Motivation
 During the past few years, us consumers rely increasingly heavily on online ratings and reviews when making decisions, especially when travelling to a new destination.
-
 In this project, I am interested in looking for words that are strong indicators of positive or negative reviews through natural language processing and sentiment analysis. This could provide valuable insight to hotel management as well as similar websites collecting ratings to improve their performance and better target certain customers. It can also help fellow travellers understand which words are the most effective when leaving a review for their next stay.
 
 Dataset
